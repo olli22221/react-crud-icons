@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/evoluteur/react-crud-icons-demo/static/css/main.14d21322.chunk.css",
-    "main.js": "/evoluteur/react-crud-icons-demo/static/js/main.68fe4392.chunk.js",
-    "main.js.map": "/evoluteur/react-crud-icons-demo/static/js/main.68fe4392.chunk.js.map",
+    "main.css": "/evoluteur/react-crud-icons-demo/static/css/main.e0a4cc4c.chunk.css",
+    "main.js": "/evoluteur/react-crud-icons-demo/static/js/main.0dbfa037.chunk.js",
+    "main.js.map": "/evoluteur/react-crud-icons-demo/static/js/main.0dbfa037.chunk.js.map",
     "runtime~main.js": "/evoluteur/react-crud-icons-demo/static/js/runtime~main.6deb02bc.js",
     "runtime~main.js.map": "/evoluteur/react-crud-icons-demo/static/js/runtime~main.6deb02bc.js.map",
-    "static/css/2.ed230628.chunk.css": "/evoluteur/react-crud-icons-demo/static/css/2.ed230628.chunk.css",
-    "static/js/2.1fc8249f.chunk.js": "/evoluteur/react-crud-icons-demo/static/js/2.1fc8249f.chunk.js",
-    "static/js/2.1fc8249f.chunk.js.map": "/evoluteur/react-crud-icons-demo/static/js/2.1fc8249f.chunk.js.map",
+    "static/css/2.3a79debc.chunk.css": "/evoluteur/react-crud-icons-demo/static/css/2.3a79debc.chunk.css",
+    "static/js/2.f36f7c52.chunk.js": "/evoluteur/react-crud-icons-demo/static/js/2.f36f7c52.chunk.js",
+    "static/js/2.f36f7c52.chunk.js.map": "/evoluteur/react-crud-icons-demo/static/js/2.f36f7c52.chunk.js.map",
     "index.html": "/evoluteur/react-crud-icons-demo/index.html",
-    "precache-manifest.0267396199c7df2f37b810efb1815a68.js": "/evoluteur/react-crud-icons-demo/precache-manifest.0267396199c7df2f37b810efb1815a68.js",
+    "precache-manifest.f33f4449c093cbc30c21fa2bd4d976b4.js": "/evoluteur/react-crud-icons-demo/precache-manifest.f33f4449c093cbc30c21fa2bd4d976b4.js",
     "service-worker.js": "/evoluteur/react-crud-icons-demo/service-worker.js",
-    "static/css/2.ed230628.chunk.css.map": "/evoluteur/react-crud-icons-demo/static/css/2.ed230628.chunk.css.map",
-    "static/css/main.14d21322.chunk.css.map": "/evoluteur/react-crud-icons-demo/static/css/main.14d21322.chunk.css.map"
+    "static/css/2.3a79debc.chunk.css.map": "/evoluteur/react-crud-icons-demo/static/css/2.3a79debc.chunk.css.map",
+    "static/css/main.e0a4cc4c.chunk.css.map": "/evoluteur/react-crud-icons-demo/static/css/main.e0a4cc4c.chunk.css.map"
   }
 }
