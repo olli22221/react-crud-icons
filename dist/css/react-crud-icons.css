@@ -14,7 +14,7 @@
     cursor: default; }
   .crud-icon > svg {
     position: relative;
-    top: -1px; }
+    top: -40px; }
   .crud-icon > div {
     z-index: 300;
     visibility: hidden;
@@ -53,8 +53,8 @@
     .crud-icon.light:hover:not(.disabled) > div {
       visibility: visible; }
   .crud-icon.tiny {
-    height: 28px;
-    width: 28px;
+    height: 14px;
+    width: 14px;
     padding: 2px; }
     .crud-icon.tiny > svg {
       height: 12px;
