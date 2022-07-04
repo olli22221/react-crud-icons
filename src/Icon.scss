@@ -81,7 +81,7 @@
   }
   &.tiny {
     @include square(28px);
-    padding: 8px;
+    padding: 2px;
     > svg {
       @include square(12px);
       top: -4px;
