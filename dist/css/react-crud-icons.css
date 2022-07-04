@@ -1,3 +1,31 @@
+
+Skip to content
+Pull requests
+Issues
+Marketplace
+Explore
+@olli22221
+evoluteur /
+react-crud-icons
+Public
+
+Code
+Issues 1
+Pull requests
+Actions
+Projects
+Wiki
+Security
+
+    Insights
+
+react-crud-icons/dist/css/react-crud-icons.css
+@evoluteur
+evoluteur (c) 2022
+Latest commit bfa82e1 on 13 Mar
+History
+1 contributor
+105 lines (105 sloc) 2.48 KB
 /*
     React-CRUD-Icons
     https://github.com/evoluteur/react-crud-icons
@@ -6,14 +34,15 @@
 .crud-icon {
   position: relative;
   display: inline-block;
-  padding: 4px;
+  padding: 10px;
   border-radius: 50%;
   box-sizing: border-box;
   cursor: pointer; }
   .crud-icon.disabled {
     cursor: default; }
   .crud-icon > svg {
-    top: -40px; }
+    position: relative;
+    top: -1px; }
   .crud-icon > div {
     z-index: 300;
     visibility: hidden;
@@ -27,7 +56,12 @@
     border-radius: 3px;
     font-size: 12px;
     font-style: normal; }
-  
+  .crud-icon:hover {
+    transition: background-color 0.2s linear 0.1s; }
+    .crud-icon:hover > div {
+      opacity: 1;
+      visibility: visible;
+      transition: opacity 0.3s linear 0.3s, visibility 0s linear 0.3s; }
   .crud-icon.dark.disabled > svg {
     fill: silver; }
   .crud-icon.dark > svg {
@@ -47,14 +81,13 @@
     .crud-icon.light:hover:not(.disabled) > div {
       visibility: visible; }
   .crud-icon.tiny {
-    height: 14px;
-    width: 14px;
-    padding: 2px; }
+    height: 28px;
+    width: 28px;
+    padding: 8px; }
     .crud-icon.tiny > svg {
       height: 12px;
       width: 12px;
-      top: -40px;
-    padding: 2px; }
+      top: -70px; }
     .crud-icon.tiny > div {
       top: 30px; }
   .crud-icon.small {
@@ -98,3 +131,21 @@
     .crud-icon.huge > div {
       top: 138px;
       left: 10px; }
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
+You signed in with another tab or window. Reload to refresh your session.
+You have no unread notifications
