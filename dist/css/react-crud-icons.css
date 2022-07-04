@@ -5,7 +5,7 @@
     (c) 2022 Olivier Giulieri
 */
 .crud-icon {
-  position: relative;
+  position: absolute;
   display: inline-block;
   padding: 10px;
   border-radius: 50%;
@@ -14,7 +14,7 @@
   .crud-icon.disabled {
     cursor: default; }
   .crud-icon > svg {
-    position: relative;
+    position: absolute;
     top: -1px; }
   .crud-icon > div {
     z-index: 300;
@@ -54,9 +54,9 @@
     .crud-icon.light:hover:not(.disabled) > div {
       visibility: visible; }
   .crud-icon.tiny {
-    height: 28px;
-    width: 28px;
-    padding: 8px; }
+    height: 10px;
+    width: 15pxpx;
+    padding: 0px; }
     .crud-icon.tiny > svg {
       height: 12px;
       width: 12px;
