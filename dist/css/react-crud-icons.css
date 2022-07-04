@@ -27,12 +27,7 @@
     border-radius: 3px;
     font-size: 12px;
     font-style: normal; }
-  .crud-icon:hover {
-    transition: background-color 0.2s linear 0.1s; }
-    .crud-icon:hover > div {
-      opacity: 1;
-      visibility: visible;
-      transition: opacity 0.3s linear 0.3s, visibility 0s linear 0.3s; }
+  
   .crud-icon.dark.disabled > svg {
     fill: silver; }
   .crud-icon.dark > svg {
