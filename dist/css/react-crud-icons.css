@@ -14,7 +14,7 @@
   .crud-icon.disabled {
     cursor: default; }
   .crud-icon > svg {
-    position: absolute;
+    position: relative;
     top: -1px; }
   .crud-icon > div {
     z-index: 300;
